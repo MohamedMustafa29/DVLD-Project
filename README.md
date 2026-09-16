@@ -89,6 +89,4 @@ string connectionString = "Server=.;Database=DVLD;Integrated Security=True;Trust
 
 ```
 
-</Elicitations>
 
-```
